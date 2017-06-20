@@ -11,7 +11,7 @@ A port from: https://github.com/wysaid/ios-gpuimage-plus
   s.homepage     = "http://github.com/wysaid/ios-gpuimage-plus"
 
   s.license      = "MIT"
-  s.author             = { "wysaid" => "admin@wysaid.org" }
+  s.author       = { "wysaid" => "admin@wysaid.org" }
   s.platform     = :ios, "7.0"
 
   s.source       = { :git => "https://github.com/wysaid/ios-gpuimage-plus-pod.git", :tag => "#{s.version}" }
