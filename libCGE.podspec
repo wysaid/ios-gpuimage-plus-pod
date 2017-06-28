@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "libCGE"
-  s.version      = "2.4.3"
+  s.version      = "2.4.5"
   s.summary      = "GPU accelerated filters for iOS based on OpenGL."
   s.description  = <<-DESC
 A port from: https://github.com/wysaid/ios-gpuimage-plus
